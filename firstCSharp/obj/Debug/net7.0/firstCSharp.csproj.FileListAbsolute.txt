@@ -1,0 +1,15 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/bin/Debug/net7.0/firstCSharp
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/bin/Debug/net7.0/firstCSharp.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/bin/Debug/net7.0/firstCSharp.runtimeconfig.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/bin/Debug/net7.0/firstCSharp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/bin/Debug/net7.0/firstCSharp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/refint/firstCSharp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/firstCSharp.genruntimeconfig.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/Samuel P/firstCSharp/obj/Debug/net7.0/ref/firstCSharp.dll
