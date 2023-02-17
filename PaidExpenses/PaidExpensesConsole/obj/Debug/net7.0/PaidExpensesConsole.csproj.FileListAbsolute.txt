@@ -1,0 +1,15 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.runtimeconfig.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/refint/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.genruntimeconfig.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/ref/PaidExpensesConsole.dll

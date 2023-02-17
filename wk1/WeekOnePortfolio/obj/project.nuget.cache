@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E14TXQ+Q1/2oxAkK/8zTIuHP6XFgxLpbmOce8wp0Doptvg18tBmZcq3Ss4bLlrui4aU2ZD4FANj7flUAFGcMEQ==",
+  "success": true,
+  "projectFilePath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/WeekOnePortfolio/WeekOnePortfolio.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuelperrino/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/samuelperrino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/samuelperrino/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.13/microsoft.netcore.app.host.osx-arm64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

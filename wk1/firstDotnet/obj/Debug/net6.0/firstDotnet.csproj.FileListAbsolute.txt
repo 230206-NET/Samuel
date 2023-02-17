@@ -1,0 +1,12 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/bin/Debug/net6.0/firstDotnet.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/bin/Debug/net6.0/firstDotnet.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/bin/Debug/net6.0/firstDotnet.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/refint/firstDotnet.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/firstDotnet.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/firstDotnet/obj/Debug/net6.0/ref/firstDotnet.dll

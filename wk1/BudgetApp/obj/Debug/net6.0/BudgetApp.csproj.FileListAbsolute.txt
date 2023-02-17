@@ -1,0 +1,12 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/bin/Debug/net6.0/BudgetApp.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/bin/Debug/net6.0/BudgetApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/bin/Debug/net6.0/BudgetApp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/refint/BudgetApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/BudgetApp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/obj/Debug/net6.0/ref/BudgetApp.dll

@@ -1,0 +1,15 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/bin/Debug/net7.0/BoxingAndUnboxing
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/bin/Debug/net7.0/BoxingAndUnboxing.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/bin/Debug/net7.0/BoxingAndUnboxing.runtimeconfig.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/bin/Debug/net7.0/BoxingAndUnboxing.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/bin/Debug/net7.0/BoxingAndUnboxing.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/refint/BoxingAndUnboxing.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/BoxingAndUnboxing.genruntimeconfig.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BoxingAndUnboxing/obj/Debug/net7.0/ref/BoxingAndUnboxing.dll
