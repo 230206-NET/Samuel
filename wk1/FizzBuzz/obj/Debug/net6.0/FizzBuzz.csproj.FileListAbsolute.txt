@@ -1,0 +1,12 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/bin/Debug/net6.0/FizzBuzz.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/bin/Debug/net6.0/FizzBuzz.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/bin/Debug/net6.0/FizzBuzz.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/refint/FizzBuzz.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/FizzBuzz.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/obj/Debug/net6.0/ref/FizzBuzz.dll

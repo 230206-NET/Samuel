@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7jJst6iXUSNp2Z2IhViQGjhPQDoVhAPKr2uL1Pi+Zp+2M4uhqtpr6COLEaNxOpEthvm1yw2VFuFEb2x6+TbbZw==",
+  "success": true,
+  "projectFilePath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/FizzBuzz/FizzBuzz.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuelperrino/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/samuelperrino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

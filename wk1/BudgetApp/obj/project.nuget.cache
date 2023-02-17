@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOTSNA646WRq2RluCTIGpdtS5/QzcGLQ3V1pA7YhuqmH/m1yNr0vgkg+TPW8S6Ws/+dGQ9U8VHscfY+ri3UYAQ==",
+  "success": true,
+  "projectFilePath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/BudgetApp/BudgetApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/samuelperrino/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/samuelperrino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

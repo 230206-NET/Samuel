@@ -1,0 +1,15 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/bin/Debug/net7.0/BudgetApp
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/bin/Debug/net7.0/BudgetApp.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/bin/Debug/net7.0/BudgetApp.runtimeconfig.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/bin/Debug/net7.0/BudgetApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/bin/Debug/net7.0/BudgetApp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/refint/BudgetApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/BudgetApp.genruntimeconfig.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/BudgetApp/obj/Debug/net7.0/ref/BudgetApp.dll

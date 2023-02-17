@@ -1,0 +1,12 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/bin/Debug/net6.0/CoinFlipper.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/bin/Debug/net6.0/CoinFlipper.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/bin/Debug/net6.0/CoinFlipper.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/refint/CoinFlipper.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/CoinFlipper.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/CoinFlipper/obj/Debug/net6.0/ref/CoinFlipper.dll

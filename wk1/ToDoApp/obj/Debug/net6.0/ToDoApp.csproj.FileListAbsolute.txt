@@ -1,0 +1,15 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/bin/Debug/net6.0/ToDoApp
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/bin/Debug/net6.0/ToDoApp.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/bin/Debug/net6.0/ToDoApp.runtimeconfig.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/bin/Debug/net6.0/ToDoApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/bin/Debug/net6.0/ToDoApp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/refint/ToDoApp.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ToDoApp.genruntimeconfig.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Trainer_Code/wk1/ToDoApp/obj/Debug/net6.0/ref/ToDoApp.dll
