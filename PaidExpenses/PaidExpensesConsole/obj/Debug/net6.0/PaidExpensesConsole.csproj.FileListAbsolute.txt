@@ -1,0 +1,5 @@
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net6.0/PaidExpensesConsole.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net6.0/PaidExpensesConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net6.0/PaidExpensesConsole.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net6.0/PaidExpensesConsole.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net6.0/PaidExpensesConsole.csproj.CoreCompileInputs.cache

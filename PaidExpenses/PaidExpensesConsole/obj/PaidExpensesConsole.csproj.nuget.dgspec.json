@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj": {}
+    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj": {}
   },
   "projects": {
-    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj": {
+    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj",
-        "projectName": "PaidExpensesConsole",
-        "projectPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj",
+        "projectUniqueName": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj",
+        "projectName": "PaidExpenses",
+        "projectPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj",
         "packagesPath": "/Users/samuelperrino/.nuget/packages/",
-        "outputPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/",
+        "outputPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samuelperrino/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,75 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj",
+        "projectName": "PaidExpensesConsole",
+        "projectPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/PaidExpensesConsole.csproj",
+        "packagesPath": "/Users/samuelperrino/.nuget/packages/",
+        "outputPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/samuelperrino/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj": {
+                "projectPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

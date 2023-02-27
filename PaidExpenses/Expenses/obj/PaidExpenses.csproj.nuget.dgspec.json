@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpenses.csproj": {}
+    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj": {}
   },
   "projects": {
-    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpenses.csproj": {
+    "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpenses.csproj",
+        "projectUniqueName": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj",
         "projectName": "PaidExpenses",
-        "projectPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpenses.csproj",
+        "projectPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpenses.csproj",
         "packagesPath": "/Users/samuelperrino/.nuget/packages/",
-        "outputPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/obj/",
+        "outputPath": "/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/samuelperrino/.nuget/NuGet/NuGet.Config"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "system.data.sqlclient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

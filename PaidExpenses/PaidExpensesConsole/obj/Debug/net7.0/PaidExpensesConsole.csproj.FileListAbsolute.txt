@@ -13,3 +13,39 @@
 /Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.pdb
 /Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.genruntimeconfig.cache
 /Users/samuelperrino/Desktop/Revature/230206-NET/Samuel P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/ref/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/refint/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.runtimeconfig.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.genruntimeconfig.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/ref/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.AssemblyReference.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.AssemblyInfoInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.AssemblyInfo.cs
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.CoreCompileInputs.cache
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/refint/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.deps.json
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpensesConsole.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/Expenses/PaidExpensesConsole/obj/Debug/net7.0/ref/PaidExpensesConsole.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpenses.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/PaidExpenses.pdb
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/obj/Debug/net7.0/PaidExpensesConsole.csproj.CopyComplete
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/System.Data.SqlClient.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/samuelperrino/Desktop/Revature/230206-NET/Samuel-P/PaidExpenses/PaidExpensesConsole/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
