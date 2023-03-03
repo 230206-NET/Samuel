@@ -20,6 +20,8 @@ namespace PaidExpenses;
             public int ID {get;set;}
             public string expenseType {get; set;}
             public decimal Cost {get; set;}
+
+            public string ExpenseStatus{get;set;}
             public List<Expenses> employeeExpenses{get; set;}
         
             public Expenses(){
@@ -27,14 +29,15 @@ namespace PaidExpenses;
             }
 
             //Parameters Constructor 
-            public Expenses(string expense, decimal Cost ){
+            public Expenses(string expense, decimal Cost, string ExpStatus ){
                 this.expenseType = expense;
                 this.Cost = Cost;
+                this.ExpenseStatus = ExpStatus;
             }
                 
             public string print(){
 
-                return " "+this.ID+" "+this.expenseType+" "+this.Cost;
+                return " "+this.ID+" "+this.expenseType+" "+this.Cost+" "+this.ExpenseStatus;
             }
 
         }

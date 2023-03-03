@@ -1,3 +1,4 @@
+using System.Data;
 using System.Reflection;
 
 namespace PaidExpenses;
@@ -5,6 +6,12 @@ using System.Data.SqlClient;
 
 public class DBHandling
 {
+    //string DBstring {get;set;}
+    // public DBHandling(string connectStr){
+
+    //     this.DBstring =connectStr;
+
+    // }
     //Establishes the connection to Azure DB and gets Current Data in the Database. 
     public List<Expenses> getExpenses()
     {
@@ -26,14 +33,11 @@ public class DBHandling
                     {
                         ID = (int)reader["ID"],
                         expenseType = (string)reader["ExpenseType"],
-                        Cost = (int)reader["Cost"],
+                        Cost = (decimal)reader["Cost"],
+                        ExpenseStatus = (string)reader["ExpenseStatus"]
                     }
                 );
-                        //Debugging purposes. 
-                        // Console.WriteLine("ID "+reader["ID"]);
-                        // Console.WriteLine("ExpenseType "+reader["ExpenseType"]);
-                        // Console.WriteLine("Cost "+reader["Cost"]);
-                       
+                        
                     }
     }           
                         foreach(Expenses e in allExpenses){
@@ -44,9 +48,9 @@ public class DBHandling
     }
 
     //Gets the name and ID of each employee
-public List<Employee> GetEmployeeInfo(){
+public List<User> GetEmployeeInfo(){
 
-List<Employee> allEmployees = new();
+List<User> allEmployees = new();
         
         //Establishing the database connection
      using SqlConnection connect2 = new SqlConnection(ConnectionClass.connectStringGetter);
@@ -60,25 +64,25 @@ List<Employee> allEmployees = new();
        if(reader.HasRows){ 
         
      while(reader.Read()){
-                    allEmployees.Add (new Employee
+                    allEmployees.Add (new User
                     {
                         EmployeeID = (int)reader["ID"],
                         FirstName = (string)reader["FirstName"],
                         LastName = (string)reader["LastName"],
+                        UserLogin = (string)reader["UserName"],
+                        UserPassword = (string)reader["UserPassword"]
                     }
                 );
                        
                     }
     }           
-                        foreach(Employee e in allEmployees){
+                        foreach(User e in allEmployees){
                             Console.WriteLine(e.printEmployee());
                         }
            
         return allEmployees;
 
     }
-
-
 // Allows user to submit expense tickets by writing to the PaidExpenses DataBase. 
 public Expenses submitExpenses(Expenses submittedExpenses)
 {
@@ -87,31 +91,36 @@ public Expenses submitExpenses(Expenses submittedExpenses)
     
     connect.Open();
     
- using SqlCommand command = new SqlCommand("INSERT INTO PaidExpenses (ExpenseType,Cost,ID) Output INSERTED.ID  Values(@ID,@expenseType,@Cost)", connect);
+ using SqlCommand command = new SqlCommand("INSERT INTO PaidExpenses(ExpenseType,Cost,ExpenseStatus ,EmployeeID) VALUES(@expenseType,@Cost,@ExpenseStatus,@EmployeeID)", connect);
 
-    command.Parameters.AddWithValue("@ID",submittedExpenses.ID);
     command.Parameters.AddWithValue("@expenseType", submittedExpenses.expenseType);
     command.Parameters.AddWithValue("@Cost", submittedExpenses.Cost);
+    command.Parameters.AddWithValue("@ExpenseStatus", submittedExpenses.ExpenseStatus);
+    command.Parameters.AddWithValue("@EmployeeID",submittedExpenses.ID);
 
-    int tableID = (int) command.ExecuteScalar();
-
-    submittedExpenses.ID = tableID;
-
-     foreach(Employee emp in submittedExpenses.employeeExpenses){
-
-    using SqlCommand command2 = new SqlCommand("INSERT INTO Employee (FirstName,LastName) Output INSERTED.ID Values(@FirstName, @LastName)", connect);
-
-    command2.Parameters.AddWithValue("@expenseType", emp.FirstName);
-    command2.Parameters.AddWithValue("@Cost", emp.LastName);
-
-    int tableID2 = (int) command.ExecuteScalar();
-
-    emp.ID = tableID2;
-
-   
-    }
+    command.ExecuteNonQuery();
 
 return  submittedExpenses;
 }
+
+public User submitUserInfo(User submittedInfo){
+
+     using SqlConnection connect = new SqlConnection(ConnectionClass.connectStringGetter);
+    
+    connect.Open();
+    
+ using SqlCommand command = new SqlCommand("INSERT INTO Employee(FirstName,LastName,UserName,UserPassword)        VALUES (@FirstName,@LastName,@UserName,@UserPassword)", connect);
+
+ command.Parameters.AddWithValue("@FirstName", submittedInfo.FirstName);
+ command.Parameters.AddWithValue("@LastName",submittedInfo.LastName);
+ command.Parameters.AddWithValue("@UserName", submittedInfo.UserLogin);
+ command.Parameters.AddWithValue("@UserPassword", submittedInfo.UserPassword);
+
+command.ExecuteNonQuery();
+
+    
+return submittedInfo;
+}
+
 
 }
