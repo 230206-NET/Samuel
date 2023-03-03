@@ -33,7 +33,7 @@ public class User:Expenses{
 
                     bool validInput;
 
-                    if (userName == "" && password == "")
+                    if (userName == "" || password == "")
                     {
                        validInput = false; // username and password fields cannot be empty. 
                     }

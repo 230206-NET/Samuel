@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Http;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<DBHandling>();
-//builder.Services.AddScoped<User>();
+builder.Services.AddScoped<User>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -29,15 +29,15 @@ app.MapGet("/Users",(DBHandling output )=>{
     return output.GetEmployeeInfo();
 });
 
-app.MapPost("/Users", ([FromQuery]string?username, [FromQuery]string?password)=>
+app.MapPost("/Users",([FromQuery]string?username,[FromQuery]string?password)=>
 {
         if(new User().CreateLogin(username,password)==false){
-          return   Results.BadRequest("username and password fields cannot be empty");
-        }else{
-            return Results.Ok("Login created successfully");
-            
+        return  Results.BadRequest("username and password fields cannot be empty");
+        }
+        else
+        {
+        return Results.Ok("Login created successfully"); 
         }  
-              
 });
 
 app.MapPut("/Users",([FromBody]User u, DBHandling userData)=>
@@ -45,8 +45,8 @@ app.MapPut("/Users",([FromBody]User u, DBHandling userData)=>
     return Results.Created("/Users",userData.submitUserInfo(u));
 });
 
+ app.Run();
 
-app.Run();
 
 // app.MapGet("/", () => "Hello World!");
 // app.MapGet("/greet", ([FromQuery]string? name, [FromQuery]string? country)=> $"Hello my name is {name??"blank"} from {country ??"USA"}!");
