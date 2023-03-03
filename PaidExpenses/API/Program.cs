@@ -47,5 +47,6 @@ app.MapPut("/Users",([FromBody]User u, DBHandling userData)=>
 
 
 app.Run();
+
 // app.MapGet("/", () => "Hello World!");
 // app.MapGet("/greet", ([FromQuery]string? name, [FromQuery]string? country)=> $"Hello my name is {name??"blank"} from {country ??"USA"}!");

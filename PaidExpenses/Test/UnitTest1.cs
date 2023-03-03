@@ -2,17 +2,17 @@ using System.Reflection;
 namespace Test;
 using PaidExpenses;
 public class UnitTest1
-{
-    // [Fact]
-    // public void CreateLoginTest()
-    // {
-    //     User u = new();
+ {
+//     [Fact]
+//     public void CreateLoginTest()
+//     {
+//         User u = new();
        
-    //    Assert.False(u.CreateLogin("",""));
+//        //Assert.False(u.CreateLogin("",""));
 
-    //     Assert.True(u.CreateLogin("sam111","123456"));
+//         Assert.True(u.CreateLogin("sam111","123456"));
         
-    // }
+//     }
 
     [Fact]
     public void UserLoginConfirmTest(){
@@ -22,8 +22,8 @@ public class UnitTest1
 
         User user2 = new User(user,password);
 
-        
-        Assert.False(user2.UserLoginConfirm("Sam190", "AppleWach7$"));
+
+        Assert.False(user2.UserLoginConfirm("Sam10", "AppleWach7$"));
 
     }
 }
